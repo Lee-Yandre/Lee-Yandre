@@ -49,6 +49,8 @@ Passionate about creating practical digital tools, improving processes, and lear
 
   Repo: https://github.com/Lee-Yandre/Readsmartsa
 
+  Functioning prototype : https://trick-high-79853905.figma.site/ 
+
 ### 📱 Contact Me
 Email: drecobs@email.com 
 
