@@ -1,16 +1,29 @@
-## Hi there 👋
+## 🌟 Hi there, I’m Lee-Yandre 👋
 
-<!--
-**Lee-Yandre/Lee-Yandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiring Workday Functional Consultant | IT in Business Systems Graduate
+
+IT in Business Systems graduate building a strong foundation in business process analysis, and digital systems. Currently exploring AI fundamentals, basic coding concepts, and how technology can streamline everyday work. This repository documents my growth, practice work, and developing technical skills.
+
+### 🚀 Currently Learning:
+
+-AI foundations & practical AI tools, -Prompt Enginering.
+
+### 💻 Tech Stack
+
+#### 🤖Languages:
+
+-Java (beginner), -SQL (MySQL and MongoDB) and , -HTML, CSS and Javascript.
+
+#### 🛠️Tools & Platforms:
+
+-Lucidchart (process mapping, BPMN diagrams), -Axure RP (prototyping & wireframing), -Microsoft Excel (database, data storing, data analysis) , -Figma (prototyping & wireframing).
+
+### 📁Featured Projects
+
+-Banking App (Prototype): A group project where we created a prototype banking app to manage accounts, transfer funds, and track transactions, focusing on usability and teamwork. Repo: https://github.com/Lee-Yandre/Banking-App
+
+-Basic Invoice/Statement System : A simple Excel tool that allows a small upholstery business to create invoices, track payments, and monitor outstanding balances. Repo: https://github.com/Lee-Yandre/Invoice-Statement-System
+
+### 📱 Contact Me Email: drecobs@email.com LinkedIn: https://www.linkedin.com/in/lee-jacobs-41294a328/
