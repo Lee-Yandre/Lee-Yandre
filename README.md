@@ -6,6 +6,8 @@ Aspiring Workday Functional Consultant | IT in Business Systems Graduate
 
 IT in Business Systems graduate building a strong foundation in business process analysis, and digital systems. Currently exploring AI fundamentals, basic coding concepts, and how technology can streamline everyday work. This repository documents my growth, practice work, and developing technical skills.
 
+Passionate about creating practical digital tools, improving processes, and learning how systems work ; from simple automations and Excel-based solutions to cloud and modern tech platforms.
+
 ### 🚀 Currently Learning:
 
 -AI foundations & practical AI tools, -Prompt Enginering.
