@@ -16,15 +16,17 @@ Passionate about creating practical digital tools, improving processes, and lear
 
 ### 💻 Tech Stack
 
-💻 Tech Stack
-🤖Languages:
+
+#### 🤖Languages:
+
 -Java (beginner),
 
 -SQL (MySQL and MongoDB) and ,
 
 -HTML, CSS and Javascript.
 
-🛠️Tools & Platforms:
+#### 🛠️Tools & Platforms:
+
 -Lucidchart (process mapping, BPMN diagrams),
 
 -Axure RP (prototyping & wireframing),
