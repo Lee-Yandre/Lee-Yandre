@@ -16,16 +16,25 @@ Passionate about creating practical digital tools, improving processes, and lear
 
 #### 🤖Languages:
 
--Java (beginner), -SQL (MySQL and MongoDB) and , -HTML, CSS and Javascript.
+-Java (beginner), 
+-SQL (MySQL and MongoDB) and , 
+-HTML, CSS and Javascript.
 
 #### 🛠️Tools & Platforms:
 
--Lucidchart (process mapping, BPMN diagrams), -Axure RP (prototyping & wireframing), -Microsoft Excel (database, data storing, data analysis) , -Figma (prototyping & wireframing).
+-Lucidchart (process mapping, BPMN diagrams), 
+-Axure RP (prototyping & wireframing), 
+-Microsoft Excel (database, data storing, data analysis) , 
+-Figma (prototyping & wireframing).
 
 ### 📁Featured Projects
 
--Banking App (Prototype): A group project where we created a prototype banking app to manage accounts, transfer funds, and track transactions, focusing on usability and teamwork. Repo: https://github.com/Lee-Yandre/Banking-App
+-Banking App (Prototype): A group project where we created a prototype banking app to manage accounts, transfer funds, and track transactions, focusing on usability and teamwork. 
+Repo: https://github.com/Lee-Yandre/Banking-App
 
--Basic Invoice/Statement System : A simple Excel tool that allows a small upholstery business to create invoices, track payments, and monitor outstanding balances. Repo: https://github.com/Lee-Yandre/Invoice-Statement-System
+-Basic Invoice/Statement System : A simple Excel tool that allows a small upholstery business to create invoices, track payments, and monitor outstanding balances. 
+Repo: https://github.com/Lee-Yandre/Invoice-Statement-System
 
-### 📱 Contact Me Email: drecobs@email.com LinkedIn: https://www.linkedin.com/in/lee-jacobs-41294a328/
+### 📱 Contact Me
+Email: drecobs@email.com 
+LinkedIn: https://www.linkedin.com/in/lee-jacobs-41294a328/
